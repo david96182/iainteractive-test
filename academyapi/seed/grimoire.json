@@ -1,0 +1,42 @@
+[
+{
+    "model": "academyapi.grimoire",
+    "pk": 1,
+    "fields": {
+        "name": "Sinceridad",
+        "leaves": 1
+    }
+},
+{
+    "model": "academyapi.grimoire",
+    "pk": 2,
+    "fields": {
+        "name": "Esperanza",
+        "leaves": 2
+    }
+},
+{
+    "model": "academyapi.grimoire",
+    "pk": 3,
+    "fields": {
+        "name": "Amor",
+        "leaves": 3
+    }
+},
+{
+    "model": "academyapi.grimoire",
+    "pk": 4,
+    "fields": {
+        "name": "Buena Fortuna",
+        "leaves": 4
+    }
+},
+{
+    "model": "academyapi.grimoire",
+    "pk": 5,
+    "fields": {
+        "name": "Desesperación",
+        "leaves": 5
+    }
+}
+]

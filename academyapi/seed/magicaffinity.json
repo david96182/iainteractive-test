@@ -1,0 +1,44 @@
+[
+{
+    "model": "academyapi.magicaffinity",
+    "pk": 1,
+    "fields": {
+        "name": "Oscuridad"
+    }
+},
+{
+    "model": "academyapi.magicaffinity",
+    "pk": 2,
+    "fields": {
+        "name": "Luz"
+    }
+},
+{
+    "model": "academyapi.magicaffinity",
+    "pk": 3,
+    "fields": {
+        "name": "Fuego"
+    }
+},
+{
+    "model": "academyapi.magicaffinity",
+    "pk": 4,
+    "fields": {
+        "name": "Agua"
+    }
+},
+{
+    "model": "academyapi.magicaffinity",
+    "pk": 5,
+    "fields": {
+        "name": "Viento"
+    }
+},
+{
+    "model": "academyapi.magicaffinity",
+    "pk": 6,
+    "fields": {
+        "name": "Tierra"
+    }
+}
+]
